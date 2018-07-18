@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 30EC-B421
+
+ Directory of C:\Users\debajyoti.chanda\Desktop\MyProject
+
+07/18/2018  04:20 PM    <DIR>          .
+07/18/2018  04:20 PM    <DIR>          ..
+07/18/2018  04:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,332,445,184 bytes free
